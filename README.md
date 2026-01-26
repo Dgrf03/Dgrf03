@@ -33,34 +33,6 @@
 
 ### 💻 Perfil de Desarrollador
 
-```java
-public class Developer {
-    private String nombre = "Diego Ramos Fernández";
-    private String rol = "Estudiante de DAM";
-    private String ubicacion = "Burriana / España 🇪🇸";
-    
-    private List<String> lenguajes = Arrays.asList(
-        "Java", "JavaScript", "Python", "SQL"
-    );
-    
-    public void vidaDiaria() {
-        while(true) {
-            comer();
-            dormir();
-            programar();
-            aprender();
-            repetir();
-        }
-    }
-    
-    public String getMensaje() {
-        return "¡Siempre aprendiendo, siempre creciendo! 🚀";
-    }
-}
-```
-
-</div>
-
 ---
 
 ## 🛠️ Stack Tecnológico
